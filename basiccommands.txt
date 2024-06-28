@@ -1,5 +1,7 @@
 git init[for initailizing git in present working directory]
 
+git status [ to list all untrcaked files]
+
 git add -A[for adding all untracked files to stageing area]
 
 git commit -m "commit message" [for adding staged files to local respository]
